@@ -12,10 +12,6 @@ SQL Functions Used:
 ===============================================================================
 */
 
-SELECT * FROM gold.fact_sales
-SELECT * FROM gold.dim_customers
-SELECT * FROM gold.dim_products
-
 -- Which 5 products Generating the Highest Revenue?
 -- Simple Ranking
 
