@@ -2,6 +2,10 @@
 
 This project is a follow-up to my [Data Warehouse Project (Data Engineering)](https://github.com/syedshamael1999/SQL-Data-Warehouse-Project/tree/main), where I built a data warehouse using SQL Server, following Medallion Architecture (Bronze → Silver → Gold). The clean, business-ready data in the Gold Layer serves as the foundation for this exploratory data analysis.
 
+
+![image](https://github.com/user-attachments/assets/bb34cbf8-4beb-4ebc-b002-6c56b9914568)
+
+
 ---
 
 ## 1. Database Exploration
