@@ -14,9 +14,7 @@ This project is a follow-up to my [Data Warehouse Project (Data Engineering)](ht
 
 [Database Exploration Script](https://github.com/syedshamael1999/SQL-Exploratory-Data-Analytics/blob/main/scripts/01_database_exploration.sql)
 
-![image](https://github.com/user-attachments/assets/b56e3c23-b031-4458-ad48-8e6640b63c6d)
 
-![image](https://github.com/user-attachments/assets/02f3d768-2f1c-433a-ad6d-c4cbc5fb14e0)
 
 
 ---
