@@ -1,4 +1,4 @@
-# Exploratory Data Analysis (SQL) – Gold Layer Insights
+# 🔍 Exploratory Data Analysis (SQL) – Gold Layer Insights
 
 **This project demonstrates a structured approach to asking the right questions in order to uncover meaningful business insights.**
 
