@@ -9,7 +9,7 @@
 
 ---
 
-## 1. Database Exploration
+## 🗄️ 1. Database Exploration
 - To explore the structure of the database, including the list of tables and their schemas.
 - To inspect the columns and metadata for specific tables.
 
@@ -18,7 +18,7 @@
 
 
 ---
-## 2. Dimensions Exploration
+## 🌍 2. Dimensions Exploration
 
 The following topics are covered: 
 - list of unique countries from which customers originate.
@@ -28,7 +28,7 @@ The following topics are covered:
 [SQL Notebook](https://github.com/syedshamael1999/SQL-Exploratory-Data-Analytics/blob/main/notebooks/dimensions_exploration.ipynb) - *Queries + Results*
 
 ---
-## 3. Date Range Exploration 
+## 📅 3. Date Range Exploration 
 
 The following topics are covered: 
 - The first and last order date and the total duration in months.
@@ -39,7 +39,7 @@ The following topics are covered:
 
 ---
 
-## 4. Measures Exploration (Key Metrics)
+## 📊 4. Measures Exploration (Key Metrics)
 
 The following topics are covered: 
 - Total Sales, Quantity of items are sold, Average selling price, Total number of Orders, Total number of products, Total number of customers, Total number of customers that has placed an order
@@ -52,7 +52,7 @@ The following topics are covered:
 [SQL Notebook](https://github.com/syedshamael1999/SQL-Exploratory-Data-Analytics/blob/main/notebooks/measures_exploration.ipynb) - *Queries + Results*
 
 ---
-## 5. Magnitude Analysis
+## 📈 5. Magnitude Analysis
 
  The following topics are covered: 
  - Total customers by countries
@@ -67,7 +67,7 @@ The following topics are covered:
 [SQL Notebook](https://github.com/syedshamael1999/SQL-Exploratory-Data-Analytics/blob/main/notebooks/magnitude_analysis.ipynb) - *Queries + Results*
 
 ---
-## 6. Ranking Analysis
+## 🏆 6. Ranking Analysis
 
 The following topics are covered:
 - Which 5 products Generating the Highest Revenue?
